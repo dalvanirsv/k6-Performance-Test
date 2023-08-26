@@ -19,7 +19,7 @@ sudo apt-get install k6`
 
 If you want to support this project, leave a ⭐.
 
-## k6 documentation link
+## K6 documentation link
 
 [LinkK6Documentation](https://k6.io/docs/)
 ___
