@@ -24,4 +24,4 @@ If you want to support this project, leave a ⭐.
 [LinkK6Documentation](https://k6.io/docs/)
 ___
 
-This project was created with 💚 by [Dalvanir](https://www.linkedin.com/in/dalvanir-vieira-da-silva-7715a5191/).
+This project was created with 💚 by [Dalvanir](https://www.linkedin.com/in/dalvanir-vieira-7715a5191/).
